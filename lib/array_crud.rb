@@ -38,5 +38,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   create_an_array [ matthew, mark, luke, john]
-  
+  create_an_array[0] = johnson
 end
