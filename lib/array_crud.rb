@@ -37,5 +37,6 @@ def retrieve_last_element_from_array(create_an_array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+  create_an_array [ matthew, mark, luke, john]
+  
 end
